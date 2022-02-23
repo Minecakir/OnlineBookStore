@@ -38,9 +38,10 @@
 <h4>PAYMENT FORM</h4>
 <p>By listing the current and previous orders of the customer mentioned on the screen, the customer can approve the orders. If the order is not canceled here and the customer decides to buy the products, he can do so by pressing the Purchase button. mentioned under the relevant heading. A new form opens on the screen when orders are received. In this form, the customer chooses which method he/she wants to make the payment method and which of the two different methods he/she wants to receive the invoice notification via mail or phone message. In addition, the customer enters the address information and confirms the order.</p>
 
-&emsp;
-![image](https://user-images.githubusercontent.com/67970973/155271552-3fe8d9aa-0b29-48c9-b6a7-d864351dd30d.png)&emsp;
-![image](https://user-images.githubusercontent.com/67970973/155271573-2afc8f09-ec51-48db-a55b-71f0f892df68.png)
+ <p align = "center">
+  <img src="https://user-images.githubusercontent.com/67970973/155271552-3fe8d9aa-0b29-48c9-b6a7-d864351dd30d.png">
+  <img src="https://user-images.githubusercontent.com/67970973/155271573-2afc8f09-ec51-48db-a55b-71f0f892df68.png">
+</p>   
 
 <h2> UML </h2>
 
