@@ -1,0 +1,32 @@
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\bin\Debug\OOP2P.exe.config
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\bin\Debug\OOP2P.exe
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\bin\Debug\OOP2P.pdb
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.Login.resources
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.FormMainPage.resources
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.UC_Orders.resources
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.PaymentForm.resources
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.UC_MainProduct.resources
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.Properties.Resources.resources
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.UC_ShoppingCartProduct.resources
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.Signup.resources
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.exe
+C:\Users\muham\Desktop\bu kesin son\oop2_project\OOP2P\obj\Debug\OOP2P.pdb
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\bin\Debug\OOP2P.exe.config
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\bin\Debug\OOP2P.exe
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\bin\Debug\OOP2P.pdb
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.csproj.AssemblyReference.cache
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.Login.resources
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.FormMainPage.resources
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.UC_Orders.resources
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.PaymentForm.resources
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.UC_MainProduct.resources
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.Properties.Resources.resources
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.UC_ShoppingCartProduct.resources
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.Signup.resources
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.csproj.GenerateResource.cache
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.csproj.CoreCompileInputs.cache
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.exe
+C:\Users\minec\Downloads\OOP2_Project\OOP2_Project\src\obj\Debug\OOP2P.pdb
