@@ -1,12 +1,12 @@
 # OnlineBookStore
 
-### [1. PROJECT DESCRIPTION](https://github.com/Minecakir/OnlineBookStore/edit/main/README.md#project-description)
+### [1. PROJECT DESCRIPTION](https://github.com/Minecakir/OnlineBookStore#1-project-description-1)
 
-### [2. DESİGN](https://github.com/Minecakir/OnlineBookStore/edit/main/README.md#design)
+### [2. DESİGN](https://github.com/Minecakir/OnlineBookStore#2-design)
 
-### [3. UML](https://github.com/Minecakir/OnlineBookStore/edit/main/README.md#-uml-)
+### [3. UML](https://github.com/Minecakir/OnlineBookStore#-3-uml-)
 
-### [4. THE WORKS OF TEAM MEMBERS](https://github.com/Minecakir/OnlineBookStore/edit/main/README.md#the-works-of-team-members)
+### [4. THE WORKS OF TEAM MEMBERS](https://github.com/Minecakir/OnlineBookStore#4-the-works-of-team-members-1)
 
 <h2 id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="&Ccedil;eviri"><span class="Y2IQFc" lang="en" style="color: #ff0000;">1. PROJECT DESCRIPTION</span></h2>
 
